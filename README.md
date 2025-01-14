@@ -8,7 +8,7 @@ Whether it’s training models to predict machinery failures, building causal ML
 
 ### Featured Projects
 
-#### 1. DCausal Machine Learning for Defect Prediction (BMW Hackathon)
+#### 1. Causal Machine Learning for Defect Prediction (BMW Hackathon)
 - Built a causal machine learning model using sensor data from 370+ features to predict defective products.
 - Identified causal factors and proposed actionable solutions to reduce manufacturing defects, earning 2nd place in BMW’s Hackathon.
 #### 2. Predictive Maintenance for Machinery Failure
